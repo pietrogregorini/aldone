@@ -1,2 +1,2 @@
-# aldone
-A non-conventional typeface inspired by the work of Aldo Novarese
+# Aldone
+A non-conventional typeface inspired by the work of Aldo Novarese.
