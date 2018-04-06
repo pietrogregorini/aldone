@@ -8,7 +8,7 @@ The typeface is developed with two different extremes which interpolates in midd
 
 
 
-![Example](https://github.com/pietrogregorini/aldone/blob/master/docs/example.png)
+[Example](https://github.com/pietrogregorini/aldone/blob/master/docs/example.png)
 
 
 
