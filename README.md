@@ -5,6 +5,9 @@ Aldone is a non-conventional geometric, low-contrast, sans-serif typeface inspir
 
 The typeface is developed with two different extremes which interpolates in middle weights. The lighter weight is rounded and a bit narrow, taking the shapes of Recta typeface as inspiration. The bolder extreme is more squared following the footsteps of Eurostile, featuring big rounded corners and inktraps.
 
+## Weights
+Aldone is provided in five different weights, from Light to Bold.
+
 ![Example](https://github.com/pietrogregorini/aldone/blob/master/docs/example.png)
 
 ## Aldo Novarese
