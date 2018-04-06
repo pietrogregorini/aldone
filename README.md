@@ -8,7 +8,7 @@ The typeface is developed with two different extremes which interpolates in midd
 ![Example](https://github.com/pietrogregorini/aldone/blob/master/docs/example.png)
 
 ## Aldo Novarese
-Aldone is named after Italian type designer [Aldo Novarese](https://en.wikipedia.org/wiki/Aldo_Novarese), one of the most prolific and most known Italian type designer who worked between '30s and '80s at Nebiolo foundry in Turin.
+Aldone is named after [Aldo Novarese](https://en.wikipedia.org/wiki/Aldo_Novarese), one of the most prolific and well known Italian type designer who worked between '30s and '80s at Nebiolo foundry in Turin.
 
 ## Collaboration
 Currently the font family is at early stage with the uppercase, lowercase and numbers. If you want to develop the typeface further, you can find the original masters under `sources` folder, both in Glyphs and UFO files.
