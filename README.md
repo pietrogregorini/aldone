@@ -2,7 +2,7 @@
 A non-conventional geometric, low-contrast, sans-serif typeface inspired by the work of Aldo Novarese.
 
 ## The Project
-Aldone has been designed by [Pietro Gregorini](https://www.pietrogregorini.com) as final project for Type Design course at [CPF Bauer](http://www.cfpbauer.it/2017/06/type-design/) in Milan, with the creative direction of Marta Bernstein, Erasmo Ciufo and Beatrice D'Agostino.
+Aldone has been designed by [Pietro Gregorini](https://www.pietrogregorini.com) as final project for Type Design course at CPF Bauer in Milan, with the creative direction of Marta Bernstein, Erasmo Ciufo and Beatrice D'Agostino.
 
 The typeface is developed with two different extremes which interpolates in middle weights. The lighter weight is rounded and a bit narrow, taking the shapes of Recta typeface as inspiration. The bolder extreme is more squared following the footsteps of Eurostile, featuring big rounded corners and inktraps.
 
