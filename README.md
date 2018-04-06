@@ -7,10 +7,10 @@ Aldone has been designed by [Pietro Gregorini](https://www.pietrogregorini.com) 
 The typeface is developed with two different extremes which interpolates in middle weights. The lighter weight is rounded and a bit narrow, taking the shapes of Recta typeface as inspiration. The bolder extreme is more squared following the footsteps of Eurostile, featuring big rounded corners and inktraps.
 
 ## Aldo Novarese
-Aldone is named after Italian type designer [Aldo Novarese](https://en.wikipedia.org/wiki/Aldo_Novarese), one of the most prolific and most known Italian type designer who worked between '30s and '80s.
+Aldone is named after Italian type designer [Aldo Novarese](https://en.wikipedia.org/wiki/Aldo_Novarese), one of the most prolific and most known Italian type designer who worked between '30s and '80s at Nebiolo foundry in Turin.
 
 ## Collaboration
-Currently the font family is at early stage with the uppercase, lowercase and numbers.
+Currently the font family is at early stage with the uppercase, lowercase and numbers. If you want to develop the typeface further, you can find the original masters under `sources` folder, both in Glyphs and UFO files.
 
 ## Download
 You can [download the whole project](https://github.com/pietrogregorini/aldone/archive/master.zip) and find the OTF files under `fonts/otf` folder.
