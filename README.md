@@ -16,4 +16,4 @@ Currently the font family is at early stage with the uppercase, lowercase and nu
 You can [download the whole project](https://github.com/pietrogregorini/aldone/archive/master.zip) and find the OTF files under `fonts/otf` folder.
 
 ## License
-This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available in the [bundled file]() and also available with a FAQ at http://scripts.sil.org/OFL
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available in the [bundled file](https://github.com/pietrogregorini/aldone/blob/master/OFL.txt) and also available with a FAQ at http://scripts.sil.org/OFL
