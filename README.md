@@ -1,3 +1,5 @@
+# Aldone Typeface
+
 ![Aldone](https://www.pietrogregorini.com/portfolio/assets/media/aldone-cover.png)
 
 ## About the Project
