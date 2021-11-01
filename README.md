@@ -1,4 +1,4 @@
-![Aldone](https://github.com/pietrogregorini/aldone/raw/master/docs/header.png)
+![Aldone](https://www.pietrogregorini.com/portfolio/assets/media/aldone-cover.png)
 
 ## About the Project
 Aldone is a non-conventional geometric, low-contrast, sans-serif typeface inspired by the work of Aldo Novarese, designed by [Pietro Gregorini](https://www.pietrogregorini.com) as final project for Type Design course at CPF Bauer in Milan, with the creative direction of Marta Bernstein, Erasmo Ciufo and Beatrice D'Agostino.
