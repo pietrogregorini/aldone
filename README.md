@@ -8,7 +8,11 @@ The typeface is developed with two different extremes which interpolates in midd
 ## Weights
 Aldone is provided in five different weights, from Light to Bold.
 
-![Example](https://github.com/pietrogregorini/aldone/blob/master/docs/example.png)
+![Example](https://www.pietrogregorini.com/portfolio/assets/media/aldone-weights.png)
+
+![Example](https://www.pietrogregorini.com/portfolio/assets/media/aldone-paragraph.png)
+
+![Example](https://www.pietrogregorini.com/portfolio/assets/media/aldone-inktraps.png)
 
 ## Aldo Novarese
 Aldone is named after [Aldo Novarese](https://en.wikipedia.org/wiki/Aldo_Novarese), one of the most prolific and well known Italian type designer who worked between '30s and '80s at Nebiolo foundry in Turin.
