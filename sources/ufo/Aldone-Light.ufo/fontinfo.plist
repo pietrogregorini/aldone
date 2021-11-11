@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
@@ -13,33 +13,21 @@
 	<key>familyName</key>
 	<string>Aldone</string>
 	<key>openTypeHeadCreated</key>
-	<string>2018/04/01 19:56:06</string>
+	<string>2018/04/01 17:56:06</string>
 	<key>openTypeNameDesigner</key>
 	<string>Pietro Gregorini</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>http://www.pietrogregorini.com/</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Aldone</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Light</string>
-	<key>openTypeOS2WeightClass</key>
-	<integer>300</integer>
-	<key>openTypeOS2WidthClass</key>
-	<integer>5</integer>
+	<key>openTypeNameLicenseURL</key>
+	<string>https://scripts.sil.org/OFL</string>
 	<key>postscriptBlueValues</key>
-	<array>
-	</array>
+	<array/>
 	<key>postscriptFontName</key>
-	<string>Aldone-Light</string>
+	<string>Aldone-Regular</string>
 	<key>postscriptOtherBlues</key>
-	<array>
-	</array>
-	<key>styleMapFamilyName</key>
-	<string>Aldone Light</string>
-	<key>styleMapStyleName</key>
-	<string>regular</string>
+	<array/>
 	<key>styleName</key>
-	<string>Light</string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>

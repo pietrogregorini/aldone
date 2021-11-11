@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.zero" format="2">
+	<advance width="736"/>
+	<outline>
+		<contour>
+			<point x="154" y="139" type="line"/>
+			<point x="252" y="72" type="line"/>
+			<point x="583" y="566" type="line"/>
+			<point x="481" y="641" type="line"/>
+		</contour>
+		<component base="zero"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>zero</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>zero</string>
+		</dict>
+	</lib>
+</glyph>
