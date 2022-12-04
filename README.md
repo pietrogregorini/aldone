@@ -1,6 +1,6 @@
 # Aldone Typeface
 
-![Aldone](https://www.pietrogregorini.com/portfolio/assets/media/aldone-cover.png)
+![Aldone](https://www.pietrogregorini.com/_portfolio/assets/media/aldone-cover.png)
 
 ## About the Project
 Aldone is a non-conventional geometric, low-contrast, sans-serif typeface inspired by the work of Aldo Novarese, designed by [Pietro Gregorini](https://www.pietrogregorini.com) as final project for Type Design course at CPF Bauer in Milan, with the creative direction of Marta Bernstein, Erasmo Ciufo and Beatrice D'Agostino.
@@ -10,11 +10,11 @@ The typeface is developed with two different extremes which interpolates in midd
 ## Weights
 Aldone is provided in five different weights, from Light to Bold.
 
-![Example](https://www.pietrogregorini.com/portfolio/assets/media/aldone-weights.png)
+![Example](https://www.pietrogregorini.com/_portfolio/assets/media/aldone-weights.png)
 
-![Example](https://www.pietrogregorini.com/portfolio/assets/media/aldone-paragraph.png)
+![Example](https://www.pietrogregorini.com/_portfolio/assets/media/aldone-paragraph.png)
 
-![Example](https://www.pietrogregorini.com/portfolio/assets/media/aldone-inktraps.png)
+![Example](https://www.pietrogregorini.com/_portfolio/assets/media/aldone-inktraps.png)
 
 ## Aldo Novarese
 Aldone is named after [Aldo Novarese](https://en.wikipedia.org/wiki/Aldo_Novarese), one of the most prolific and well known Italian type designer who worked between '30s and '80s at Nebiolo foundry in Turin.
